@@ -8,14 +8,20 @@ Part of the success of the Node.js community is due to the fact many early membe
 
 We are committed to providing a harassment free event experience and this is only possible if participants are equally committed to this objective.
 
-Participants include everyone involved in a Node Summit event; attendees, speakers, sponsors, staff, vendors, volunteers and gate crashers.
+Participants include everyone involved in a Node Summit event; organizers, attendees, speakers, sponsors, staff, vendors, volunteers and gate crashers.
 
 Harassment includes but is not limited to offensive verbal comments related to gender identity, age, sexual orientation, disability, physical appearance, body size, race, experience and religious or other beliefs. It also includes displaying sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other sessions, inappropriate physical contact and unwelcome attention.
 
-Participants asked to stop any harassing behavior are expected to comply immediately. Failure to do so may qualify you for free escort out of the event and exclusion from future Node Summit events.
+Participants asked to stop any harassing behavior are expected to comply immediately. Failure to do so will qualify you for free escort out of the event and exclusion from future Node Summit events.
 
 If a participant engages in harassing behavior, the conference organizers will take any actions they deem appropriate and necessary, including but not limited to warning the offender or expulsion from the conference with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify a member of the conference staff immediately. The staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe and welcome for the duration of the conference.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify a member of the conference staff immediately. The staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe and welcome for the duration of the conference. If you are unsure who to approach, or feel the issue is not being properly addressed, please do one or more of the following:
+
+Find: Charles Beeler. Look for him or ask someone to find him for you.
+
+Email: Email the Events Team at events@nodesummit.com.
+
+Call: Call us at 1-855-NODEJS-0 (1-855-663-3570). If you receive a message prompt please leave a detailed message including how we can contact you. Your message will automatically be forwarded to the Event Team and Charles' email account.
 
 *PLEASE NOTE:  If you, as an individual or collectively as an organization, do not believe you can or do not want to comply with this Code of Conduct, please do not attend a Node Summit event. The videos from the event will be available at a later date and you can view the content online without the risk of detracting from the event experience for other participants. If you find yourself in this situation and already purchased an event pass please notify the conference organizers prior to the start of the conference by sending an email to events@nodesummit.com and including the phrase “CoC Opt-Out” in the subject line. We will provide a full refund on your ticket purchase and the reason for this refund will be not be shared with anyone.*
