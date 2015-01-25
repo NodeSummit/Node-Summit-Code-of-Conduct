@@ -1,4 +1,4 @@
-### Node-Summit-Code-of-Conduct
+### Node Summit Code of Conduct
 
 ## Summary
 Node Summit and its owner, Asynch Media, are dedicated to providing a harassment-free conference experience for everyone, regardless of gender identity, age, sexual orientation, disability, physical appearance, body size, race, experience and religious or other beliefs. We do not tolerate harassment of participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers and staff.
